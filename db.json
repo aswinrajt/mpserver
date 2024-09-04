@@ -1,0 +1,160 @@
+{
+  "users": [
+    {
+      "username": "aswin",
+      "email": "aswin@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "raj@gmail.com",
+      "usename": "",
+      "password": "12345",
+      "username": "raj",
+      "id": 2
+    },
+    {
+      "email": "ajith@gmail.com",
+      "usename": "",
+      "password": "123456",
+      "username": "ajith",
+      "id": 3
+    },
+    {
+      "username": "dwhuiw",
+      "email": "suiu@gmail.com",
+      "password": "123332",
+      "id": 4
+    },
+    {
+      "username": "ammu",
+      "email": "ammu@gmail.com",
+      "password": "am123",
+      "id": 5
+    }
+  ],
+  "videos": [
+    {
+      "videoId": "1",
+      "title": "kesariya",
+      "imageUrl": "https://i.ytimg.com/vi/BddP6PYo2gs/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?si=v4E1ifUpRvVvpCUF",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "Ranam",
+      "imageUrl": "https://i.ytimg.com/vi/yTRHnroQZuM/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/yTRHnroQZuM?si=v4E1ifUpRvVvpCUF",
+      "id": 2
+    },
+    {
+      "videoId": "3",
+      "title": "empuraan",
+      "imageUrl": "https://i.ytimg.com/vi/XDSyXuKB2q8/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/XDSyXuKB2q8?si=v4E1ifUpRvVvpCUF",
+      "id": 3
+    },
+    {
+      "videoId": "4",
+      "title": "dil se",
+      "imageUrl": "https://i.ytimg.com/vi/QjbGePa-vG0/maxresdefault.jpg",
+      "videoUrl": "https://www.youtube.com/embed/QjbGePa-vG0?si=v4E1ifUpRvVvpCUF",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "categoryId": "1",
+      "title": "music",
+      "video": [
+        {
+          "videoId": "1",
+          "title": "kesariya",
+          "imageUrl": "https://i.ytimg.com/vi/BddP6PYo2gs/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?si=v4E1ifUpRvVvpCUF",
+          "id": 1
+        },
+        {
+          "videoId": "1",
+          "title": "kesariya",
+          "imageUrl": "https://i.ytimg.com/vi/BddP6PYo2gs/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/BddP6PYo2gs?si=v4E1ifUpRvVvpCUF",
+          "id": 1
+        },
+        {
+          "videoId": "2",
+          "title": "Ranam",
+          "imageUrl": "https://i.ytimg.com/vi/yTRHnroQZuM/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/yTRHnroQZuM?si=v4E1ifUpRvVvpCUF",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "tutorial",
+      "video": [],
+      "id": 2
+    },
+    {
+      "categoryId": "3",
+      "title": "videos",
+      "video": [
+        {
+          "videoId": "4",
+          "title": "dil se",
+          "imageUrl": "https://i.ytimg.com/vi/QjbGePa-vG0/maxresdefault.jpg",
+          "videoUrl": "https://www.youtube.com/embed/QjbGePa-vG0?si=v4E1ifUpRvVvpCUF",
+          "id": 4
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "videoId": "1",
+      "title": "kesariya",
+      "url": "https://www.youtube.com/embed/BddP6PYo2gs?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-08-30T07:06:30.915Z",
+      "id": 1
+    },
+    {
+      "videoId": "1",
+      "title": "kesariya",
+      "url": "https://www.youtube.com/embed/BddP6PYo2gs?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-09-02T06:57:30.010Z",
+      "id": 2
+    },
+    {
+      "videoId": "2",
+      "title": "Ranam",
+      "url": "https://www.youtube.com/embed/yTRHnroQZuM?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-09-03T03:34:08.721Z",
+      "id": 3
+    },
+    {
+      "videoId": "4",
+      "title": "dil se",
+      "url": "https://www.youtube.com/embed/QjbGePa-vG0?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-09-03T03:34:18.604Z",
+      "id": 4
+    },
+    {
+      "videoId": "4",
+      "title": "dil se",
+      "url": "https://www.youtube.com/embed/QjbGePa-vG0?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-09-04T06:40:33.753Z",
+      "id": 5
+    },
+    {
+      "videoId": "4",
+      "title": "dil se",
+      "url": "https://www.youtube.com/embed/QjbGePa-vG0?si=v4E1ifUpRvVvpCUF",
+      "datetime": "2024-09-04T06:40:48.748Z",
+      "id": 6
+    }
+  ]
+}
